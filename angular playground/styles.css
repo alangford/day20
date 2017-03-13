@@ -1,0 +1,9 @@
+.header{
+    text-align: center;
+}
+
+
+footer{
+display: flex;
+    justify-content: space-between;
+}
